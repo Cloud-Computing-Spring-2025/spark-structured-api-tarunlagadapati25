@@ -42,7 +42,7 @@ To make genre loyalty scores meaningful, we introduced user-specific genre prefe
 
 ## Folder Structure
 ```
-assignment-3-spark-structured-api-Scheruk1701/
+assignment-3-spark-structured-api-tarunlagadapati25/
 ├── input/
 │   ├── songs_metadata.csv
 │   └── listening_logs.csv
